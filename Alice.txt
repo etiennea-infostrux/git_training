@@ -4,3 +4,4 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 4rd line to diverge from Patrick.
 New line from remote.
 New new line.
+Conflict remote.
